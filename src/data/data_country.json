@@ -1,0 +1,23 @@
+[
+    {
+        "code": "COL",
+        "name": "Colombia",
+        "infected": 0,
+        "new_cases": 0,
+        "total_deaths": 0
+    },
+    {
+        "code": "MX",
+        "name": "Mexico",
+        "infected": 0,
+        "new_cases": 0,
+        "total_deaths": 0
+    },
+    {
+        "code": "PE",
+        "name": "Peru",
+        "infected": 0,
+        "new_cases": 0,
+        "total_deaths": 0
+    }
+]

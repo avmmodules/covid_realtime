@@ -1,1 +1,3 @@
 # covid_realtime
+![start and run](src/img/miniatura.png)
+Turning on modules...
