@@ -1,9 +1,7 @@
 '''
-    Description:
-    Get data of COVID-19 in realtime with Python.
-
-    Author: AlejandroV
-    Version: 1.0
+    Description: Get data of COVID-19 in realtime with Python.
+    Author: aulerjbailey
+    Version: 1.0.0
     Video: https://youtu.be/tYJHAYA7wVI
 '''
 from bs4 import BeautifulSoup
